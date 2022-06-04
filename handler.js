@@ -480,7 +480,7 @@ module.exports = {
             let user = (m.isGroup ? participants.find(u => conn.decodeJid(u.id) === m.sender) : {}) || {} // User Data
             let bot = (m.isGroup ? participants.find(u => conn.decodeJid(u.id) == this.user.jid) : {}) || {} // Your Data
             let isAdmin = user && user.admin || false // Is User Admin?
-            let isBotAdmin = bot && bot.admin || false // Are you Admin?
+            let isBotAdmin = bot && bot.admin || true // Are you Admin?
             for (let name in global.plugins) {
                 let plugin = global.plugins[name]
                 if (!plugin) continue
@@ -713,9 +713,9 @@ module.exports = {
                     }
                 }
                 break
-            case 'promote':
+            case 'promote': true
                 text = (chat.sPromote || this.spromote || conn.spromote || '@user ```is now Admin```')
-            case 'demote':
+            case 'demote': true
                 if (!text) text = (chat.sDemote || this.sdemote || conn.sdemote || '@user ```is no longer Admin```')
                 text = text.replace('@user', '@' + participants[0].split('@')[0])
                 if (chat.detect) this.sendMessage(id, text, MessageType.extendedText, {
