@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
 global.owner = ['6281322667077'] 
-global.mods = [] 
+global.mods = ['6281215710461'] 
 global.prems = ['6281215710461'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Romli Suhanda'
-global.numberowner = '6281224804625'
+global.numberowner = '6281322667077'
 global.instagram = 'https://instagram.com/Romli II'
 global.github = 'https://github.com/romlisuhanda'
 global.dana = '081322667077'
