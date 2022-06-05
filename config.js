@@ -36,7 +36,7 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat ngab..'
-global.packname = '2022'
+global.packname = 'XzyuuNaii'
 global.author = '© ZxyuuBOTZ-MD'
 
 //=============『 Apikey 』================== //
