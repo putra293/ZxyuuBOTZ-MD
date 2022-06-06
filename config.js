@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6281322667077', '6281215710461'] 
-global.mods = ['6281215710461'] 
-global.prems = ['6281215710461'] 
+global.owner = ['6283856051043', '6283856051043'] 
+global.mods = ['6283856051043'] 
+global.prems = ['6283856051043'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Romli Suhanda'
-global.numberowner = '6281322667077'
-global.instagram = 'https://instagram.com/Romli II'
-global.github = 'https://github.com/romlisuhanda'
-global.dana = '081322667077'
-global.pulsa = '081224804625'
+global.nameowner = 'Putra Nich'
+global.numberowner = '6283856051043'
+global.instagram = 'https://instagram.com/romli II'
+global.github = 'https://github.com/PutraNich'
+global.dana = '-'
+global.pulsa = '083856051043'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ZxyuuBOTZ-MD'
+global.namebot = 'PutzzBOTZ-MD'
 global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
 global.web = 'https://github.com/romlisuhanda' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/39d144c866ddd0db1ac1e.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/17edeb9ade79777e1c45d.jpg' //ini juga ganti 
 global.lolkey = 'Danwfrostkey' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ZxyuuBOTZ-MD'
+global.wm = 'PutzzBOTZ-MD'
 global.watermark = wm
-global.wm2 = '                     「 ZxyuBOTZ-MD 」'
-global.wm3 = '⫹⫺ Zxyuu-𝙼𝙳'
+global.wm2 = '                     「 PutzzBOTZ-MD 」'
+global.wm3 = '⫹⫺ Putzz-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/4636b17abdf0837b0efa9.jpg'
