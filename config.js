@@ -8,7 +8,7 @@ global.nameowner = 'Putra Nich'
 global.numberowner = '6283856051043'
 global.instagram = 'https://instagram.com/romli II'
 global.github = 'https://github.com/PutraNich'
-global.dana = '-'
+global.dana = '083856051043'
 global.pulsa = '083856051043'
 global.gopay = '-'
 
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat ngab..'
-global.packname = '© ZxyuuBOTZ-MD'
-global.author = '⫹⫺ XzyuuNaii'
+global.packname = '© PutzzBOTZ-MD'
+global.author = '⫹⫺ Plerr'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
