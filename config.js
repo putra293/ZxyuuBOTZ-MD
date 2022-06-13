@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6283856051043', '6283856051043'] 
-global.mods = ['6283856051043'] 
-global.prems = ['6283856051043'] 
+global.owner = ['6283840600765', '6283840600765'] 
+global.mods = ['6283840600765'] 
+global.prems = ['6283840600765'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Putra Nich'
-global.numberowner = '6283856051043'
+global.numberowner = '6283840600765'
 global.instagram = 'https://instagram.com/romli II'
 global.github = 'https://github.com/PutraNich'
 global.dana = '083856051043'
@@ -15,7 +15,7 @@ global.gopay = '-'
 //=============『 Info Bot 』=================//
 global.namebot = 'PutzzBOTZ-MD'
 global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
-global.web = 'https://github.com/romlisuhanda' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://Instagram/Putra Nich' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
